@@ -1,0 +1,28 @@
+_repo: Stevensoniana--13-Being-a-Reprint-of-Various-Literary-and-Pictorial-Miscellany-Associated-wit__33428
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33428-h/images/cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2010-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33428'
+  lccn: 00002896
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Stevenson, Robert Louis, 1850-1894 -- Miscellanea'
+- !lcc 'PR'
+- !lcsh 'Authors, Scottish -- 19th century -- Biography'
+title: "Stevensoniana\r\nBeing a Reprint of Various Literary and Pictorial Miscellany\
+  \ Associated with Robert Louis Stevenson, the Man and His Work"
+url: http://www.gutenberg.org/ebooks/33428
